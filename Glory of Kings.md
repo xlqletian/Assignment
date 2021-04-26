@@ -1,8 +1,5 @@
-[toc]
 
-
-
-## dGlory of Kings
+## Glory of Kings
 
 #### Webset
 
@@ -18,7 +15,7 @@
 
 #### BackToReadme
 
- [back to the README.md]()
+ [back to the README.md](https://github.com/xlqletian/Assignment/blob/main/README.md)
 
 #### CodeBlock：
 
